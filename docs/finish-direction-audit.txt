@@ -1,0 +1,129 @@
+DIRECTION CONCEPT SEED (key: 5a718a57; mode: persuade; source: api; approved pool: c3b204a1eed6; 306/564 human-approved; rerun with --scope direction --mode persuade --from 5a718a57 --candidate-count 7 to reproduce this roll against this catalog revision)
+ASSIGNED INDEX: 7
+  After ordering the grounded directions by resonance, build candidate
+  7 of your own grounded list; the assignment never points at a
+  challenger. The assignment is the roll, not a suggestion: your top-ranked
+  direction is what every run would ship, so the script decides which grounded
+  direction gets built. Each direction joins a durable visual system to a
+  concrete expression for the requested first surface, decided as one. It must
+  survive the current task plus navigation, quiet and dense content,
+  interaction and state, and a substantially different future surface. In an
+  attended run, present the assigned direction fully committed and offer
+  re-roll. You may add ONE card for your top-ranked grounded candidate when
+  it is not the assigned direction, kicker IMPECCABLE’S PICK, with an honest risk line
+  naming its familiarity; one pick card, never a ranked lineup, and the pick
+  never takes the lead position. When the assignment IS your top candidate,
+  there is no pick card. Re-roll yourself only
+  on named factual grounds, when the assignment cannot carry the product's
+  truth or task; taste is never grounds.
+  The assignment exists to refuse the model's ranking rut, never to outrank
+  the user or the brief. Never expose assignment metadata in user-facing labels.
+CHALLENGERS:
+  1. an interactive type specimen, where dragging an axis slider morphs a whole grid of glyphs in real time
+     SOURCE ID: variable-font-specimen
+     CREATIVE SPARK: A single giant letter fills the screen. You drag the weight slider and it thickens from hairline to black under your finger, live. Below, a grid of every glyph breathes in step, and a monospace readout counts the axis values.
+     SYSTEM GRAMMAR:
+       - Palette/material: Near-white paper and ink black with one foundry accent; flat surfaces, generous negative space, no ornament so the letterforms carry everything.
+       - Type/composition: The specimen face at enormous display size against tiny monospace UI labels; a strict measure and baseline grid; hierarchy by scale contrast alone.
+       - Topology/navigation: Move by axis slider, by glyph cell, and by size and specimen view.
+       - Controls/state: Drag, type, and pin; moving an axis remaps every glyph on the page continuously and updates the live coordinate readout.
+       - Responsive/motion: reduced-motion snaps between named instances instead of animating the interpolation.
+     WEB LEVERAGE: Bind range inputs to CSS font-variation-settings through a custom property, so one slider drives font-variation across the entire glyph grid with no per-glyph JavaScript.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/variable-font-specimen.webp · hero https://impeccable.style/worlds/cards/variable-font-specimen-hero.webp
+  2. a printing darkroom under amber safelight, where enlarger beams, timed baths, and drying lines stage photographs into slow deliberate existence
+     SOURCE ID: signals-instruments-darkroom-safelight-bay
+     CREATIVE SPARK: In the developer tray, gray ghosts gather into a face; the timer ticks, and pulling the print too early is a real loss.
+     SYSTEM GRAMMAR:
+       - Palette/material: amber safelight washing every surface as the ground, wet-print silver grays deepening to black as the image ink, enamel tray white at the edges
+       - Type/composition: grease-pencil notes and printed timer digits under amber, labels sparse on bottles and trays; test strips band the field into stepped exposures
+       - Topology/navigation: work moves through fixed stations in order: compose, expose, develop, fix, wash, dry.
+       - Controls/state: progress is chemical and irreversible past marked points; test strips preview before committing.
+       - Responsive/motion: stations linearize on phones; the develop reveal is one continuous emergence, shown statically under
+     WEB LEVERAGE: Canvas-simulated development curves let previews emerge in real time before an action commits.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/signals-instruments-darkroom-safelight-bay.webp · hero https://impeccable.style/worlds/cards/signals-instruments-darkroom-safelight-bay-hero.webp
+  3. a workshop linocut broadside cut for a strike or a literacy campaign, monumental figures gouged from black with white chisel strokes, a slab of demand lettering carved into the same block
+     SOURCE ID: posters-covers-sleeves-taller-grafica-linocut
+     CREATIVE SPARK: a fist and a forearm gouged out of black lino, seen from below so they fill the sheet, and the words underneath were cut with the same knife into the same block by somebody in a hurry.
+     SYSTEM GRAMMAR:
+       - Palette/material: one black relief ink on cheap manila or newsprint, all modeling made by the width and direction of the gouge
+       - Type/composition: demand lettering carved into the block itself in heavy irregular caps, the figure filling three quarters of the sheet from below
+       - Topology/navigation: each sheet is one demand, so navigation moves between demands rather than through them, always at the same low angle
+       - Controls/state: controls are carved lettering blocks, pressing one floods it solid black, and inactive ones stay as outline gouges
+       - Responsive/motion: the figure crops from the edges inward and never scales down, and motion is a single heavy press impression
+     WEB LEVERAGE: svg gouge-textured artwork, a press-impression animation on control state, and edge-crop responsive behavior
+     QUALITY BAR: board https://impeccable.style/worlds/cards/posters-covers-sleeves-taller-grafica-linocut.webp · hero https://impeccable.style/worlds/cards/posters-covers-sleeves-taller-grafica-linocut-hero.webp
+  4. a camcorder viewfinder built from framing tools, corner focus brackets, a zoom bar gliding W to T, zebra stripes crawling over blown highlights and a tape counter in segmented digits, the scene always full-bleed beneath
+     SOURCE ID: pop-culture-shelf-viewfinder-bracket-hud
+     CREATIVE SPARK: You half-press and the corner brackets tighten around her face, zebra crawling on the bright window behind her, the amber bar easing from W toward T as the counter climbs quietly in its corner.
+     SYSTEM GRAMMAR:
+       - Palette/material: white segmented OSD ink over live imagery, amber for the zoom bar and cautions, diagonal zebra stripes as the only texture, black letterbox bars as the ground
+       - Type/composition: segmented monospace caps pinned just inside the safe-area corners, the center always empty for the subject, readouts ranked one per corner
+       - Topology/navigation: one full-bleed frame is the whole space, the zoom bar maps depth, W for overview and T for detail, and the counter wheel scrubs between sections like tape
+       - Controls/state: focus brackets snap thin around the targeted element, anything overexposed or overdue wears zebra stripes, and locked settings show a small closed bracket pair
+       - Responsive/motion: brackets hug the safe area at any aspect ratio, and motion is the zoom bar's glide with a single-frame cut between views
+     WEB LEVERAGE: css blend modes composite the OSD over any content while an svg counter and zoom bar animate with stepped easing
+     QUALITY BAR: board https://impeccable.style/worlds/cards/pop-culture-shelf-viewfinder-bracket-hud.webp · hero https://impeccable.style/worlds/cards/pop-culture-shelf-viewfinder-bracket-hud-hero.webp
+  5. a circular sheet folded along one sweeping curved crease, where paper rises into a rigid shell without straight facets or added support
+     SOURCE ID: paper-folds-pleats-deployable-curved-crease-shell
+     CREATIVE SPARK: The cream disc lifts along one charcoal arc and locks into a saddle whose shadow looks drawn with a compass in midair.
+     SYSTEM GRAMMAR:
+       - Palette/material: cream cotton paper as ground, one charcoal compass arc as the active crease, graphite shadow gradients for depth, body notes in soft black ink
+       - Type/composition: geometer's inclined serif italic for labels, figures numbered like plates, layout ruled by the sweep of one arc rather than a rectangular grid
+       - Topology/navigation: Connect planar crease, local curvature, ridge, and resulting shell through registered views.
+       - Controls/state: Bend, invert, lock, and compare with flat, curving, stable, buckled, and reversed states.
+       - Responsive/motion: Pair plan and section on small screens and expose a small set of stable key forms.
+     WEB LEVERAGE: A curve-driven deformation model can show how one line produces spatial rigidity while retaining a precise 2D source.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/paper-folds-pleats-deployable-curved-crease-shell.webp · hero https://impeccable.style/worlds/cards/paper-folds-pleats-deployable-curved-crease-shell-hero.webp
+  6. a tokonoma alcove holding an ikebana arrangement of one weathered pine branch, three irises, and an off-center bronze suiban, where line, asymmetry, season, and ma make the surrounding emptiness active
+     SOURCE ID: growth-metamorphosis-branching-ikebana-ma-arrangement
+     CREATIVE SPARK: One pine branch rises through the quiet alcove, bends toward three blue irises, and leaves a charged triangle of empty plaster more vivid than another flower could fill.
+     SYSTEM GRAMMAR:
+       - Palette/material: pale plaster alcove as ground, weathered gray-brown pine for body, three iris-blue stems marking the active accent, a dark bronze suiban at the base
+       - Type/composition: a few vertical characters set off-center, primary secondary and supporting lines forming an asymmetric triangle, empty plaster left charged as ma
+       - Topology/navigation: Move among primary, secondary, and supporting lines while vessel, viewing front, seasonal material, and active emptiness remain related.
+       - Controls/state: Trim, angle, rotate, place, and remove stems with budding, open, balanced, crowded, fading, and renewed states.
+       - Responsive/motion: Preserve the arrangement's viewing front and proportional emptiness on small screens; use plan and elevation views instead of decorative reflow.
+     WEB LEVERAGE: Direct manipulation can preserve stem-angle, balance, and negative-space constraints, while a time scrub connects each plant's seasonal and fading state to the whole composition.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/growth-metamorphosis-branching-ikebana-ma-arrangement.webp · hero https://impeccable.style/worlds/cards/growth-metamorphosis-branching-ikebana-ma-arrangement-hero.webp
+Fuse each challenger before judging it: the challenger supplies the form
+  and its system grammar, the product supplies every fact, and clarity wins
+  conflicts. Weigh the fused result against the assigned direction on exactly
+  two axes, audience identification and product clarity. Losing to strong
+  grounded material is a valid outcome; beating a thin or tool-monoculture
+  list is the point. A fused challenger that wins both axes becomes the build.
+  Close the weighing with a verdict per challenger, decided before any
+  borrowing is considered: wins (beats the assigned direction on both axes),
+  competitive (holds one axis), or declined (loses both). A declined
+  challenger is not spent: name the one discipline of its system the assigned
+  direction lacks, and raise the assigned direction to match before
+  presenting it. A donation transfers ambition and system discipline, never
+  the challenger's clothes; one world owns the page. Write each raise as its
+  own named line on the presented direction, and carry every verdict, kept
+  line, and raise into the decision page payload.
+When you can view images, open the QUALITY BAR board and hero for any
+challenger you weigh seriously and for the world you build. They exist as a
+craft bar, the finish level and commitment the build is expected to reach,
+never as a mockup to copy; your surface serves this product, not that render.
+PRODUCT.md and explicit incumbent brand commitments constrain every direction.
+The seed never chooses exact colors, fonts, tokens, or a user preference, and
+it never permits the world and first surface to be selected independently.
+The CREATIVE SPARK is a complete visual system, not a theme or decorative
+reference. Translate every supplied system rule into the product: palette and
+material, type and composition, topology, controls and states, and adaptation.
+Keep the source's visible character, scale, rhythm, and interaction instead of
+reducing vivid grammar to generic nouns. When the source is already a credible
+interface language, commit to it across navigation, content, controls, and
+states. Otherwise keep a literal carrier only when it becomes functional.
+Ambitious motion, spatial media, or interaction is welcome when it strengthens
+the product without weakening semantics, performance, or fallback behavior.
+TELEMETRY: after the user's choice resolves, rerun this script once with
+  --kind <assigned|pick|challenger|canon> --from 5a718a57 --scope direction --mode persuade,
+  adding --chosen <challenger-id> when a dealt challenger won and keeping
+  --register <safer|bolder> when the resolved round came from a steered hand.
+  One ping per resolved attended round. The ping is anonymous, the card kind
+  plus the catalog id when one won; your grounded candidates' names never
+  leave the machine, and the ping is skipped automatically when DO_NOT_TRACK
+  or IMPECCABLE_NO_TELEMETRY is set.
+A user- or brief-pinned decision beats the roll, always.
+ASSIGNED INDEX (restated for truncated readers): 7. Build candidate
+7 of your own grounded list; seed key 5a718a57.

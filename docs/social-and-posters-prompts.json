@@ -1,0 +1,15 @@
+{
+  "mode": "built-in image_gen",
+  "images": [
+    {
+      "filename": "almoammal-social-card.png",
+      "prompt": "Use case: ads-marketing\nAsset type: original website social sharing card, 1536x1024 landscape 3:2.\nPrimary request: premium Arabic typographic/photo editorial brand card for a fictional Baghdad print and signage workshop.\nScene/backdrop: deep solid forest green #173e33 background. In the lower half, a beautifully lit photographic closeup of warm illuminated Arabic sign letterforms, creamy translucent acrylic and metal material detail. This closeup should not introduce readable extra words.\nComposition/framing: editorial composition, generous margins, spectacular oversized warm ivory Arabic title dominating the upper half, smaller supporting line immediately beneath it, and a small service line. Include a single crisp tangerine #fa713b ink square as the strong simple brand accent. Tasteful and cohesive.\nText (verbatim), exactly these three lines and no others:\nالمؤمل\nللدعاية والإعلان\nطباعة • واجهات • تغليف\nTypography: excellent professional connected Arabic lettering, very large warm ivory title, all exact Arabic spelling fully legible. Title includes hamza on waw: المؤمل. Supporting line includes hamza beneath alif in الإعلان. Keep the three text lines distinct from the material photograph.\nConstraints: original artwork, premium tactile realism, clean composition, no English, no extra text, no watermark, no people.",
+      "inspection": "Visually inspected: exact Arabic title المؤمل; supporting copy للدعاية والإعلان; service line طباعة • واجهات • تغليف. Legible and correct."
+    },
+    {
+      "filename": "almoammal-art-posters.png",
+      "prompt": "Use case: product-mockup\nAsset type: original website product photograph, 1536x1024 landscape 3:2.\nPrimary request: printed art posters on cream paper stacked on a Baghdad printshop workbench.\nSubject: a tactile stack of heavyweight warm cream poster sheets, the top few slightly offset, carrying elegant terracotta orange and dark forest green abstract architectural arch artwork inspired by Baghdad architecture. Only abstract artwork, absolutely no words.\nStyle/medium: premium natural editorial product photography, authentic printshop craft, ultra-real paper texture and crisp ink edges.\nComposition/framing: close oblique overhead view across the stack, attractive broad clear shapes and tactile detail, posters dominate frame, shallow workbench context.\nLighting/mood: gentle warm workshop daylight, soft shadow and restrained contrast, sophisticated realistic print production.\nColor palette: warm cream, terracotta orange, forest green #173e33.\nMaterials/textures: thick uncoated cotton paper with visible paper fibers and stacked paper edges on a subtly worn neutral workbench.\nConstraints: one original photographic scene, no collage, no text, no letters, no logos, no watermark, no hands, no people.",
+      "inspection": "Visually inspected: stacked cream paper posters with orange/green abstract arches; no words, hands, or people."
+    }
+  ]
+}
